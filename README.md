@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about soft skills
 - 📫 How to reach me: gabrielllaguerre.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am also a chemical engineer
 
