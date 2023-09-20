@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I am also a chemical engineer
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellaguerre&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellaguerre&theme=default)
