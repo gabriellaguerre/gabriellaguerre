@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Gabriel, welcome to my github page :)
 
 - 🔭 I’m currently working on coding projects
 - 🌱 I’m currently learning docker
