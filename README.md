@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with docker
 - 💬 Ask me about soft skills
-- 📫 How to reach me: gabriellaguerre.com
+- 📫 How to reach me: gabriel.g.laguerre@gmail.com
 - ⚡ Fun fact: I am also a chemical engineer
 
 
