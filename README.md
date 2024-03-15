@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gabriel, welcome to my github page :)
 
-- 🔭 I’m currently working on coding Android/iOS projects
+- 🔭 I’m currently working on an Android app
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about soft skills
