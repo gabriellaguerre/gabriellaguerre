@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Gabriel, welcome to my github page :)
+### Hi, I'm Gabriel, welcome to my github page :)
 
 - 🔭 I’m currently working on coding circuit boards using c lang, ti ccstudio and uniflash 
 - 🌱 I’m currently learning artificial intelligence and frameworks
